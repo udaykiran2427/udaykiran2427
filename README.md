@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on backend development and a few projects<br>🔗 I’m looking to collaborate on DSA, backend projects, and machine learning<br>🤝 I’m looking for help with improving my development skills<br>🌱 I’m currently learning backend development and machine learning<br>💬 Ask me about DSA, problem-solving, and anything tech-related<br>⚡ Fun fact I find linked lists harder than graphs 
 
 
